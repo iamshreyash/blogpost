@@ -32,7 +32,7 @@ Feel free to raise a issue or make a pull request to fix a bug or add a new feat
 
 ## Code of Conduct
 
-Check the Code of Conduct [here](https://github.com/Rohan-cod/blogpost/blob/master/CODE_OF_CONDUCT.md)
+Click to check the Code of Conduct [here](https://github.com/Rohan-cod/blogpost/blob/master/CODE_OF_CONDUCT.md)
 
 ## steps you'll want to follow while writing a blog post.
 Understand your audience. ...
